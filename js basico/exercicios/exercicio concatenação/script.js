@@ -5,3 +5,6 @@ resultado = Number(num1) + Number(num2);
 
 alert("O resultado foi " + resultado);
 alert(`O resultado foi ${resultado}`);
+alert(`teste`)
+
+//----------------------
