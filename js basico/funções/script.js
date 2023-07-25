@@ -6,7 +6,7 @@ function saudação(nome){
 saudação('Gabriel'); //Olá tudo bem, Gabriel?
 saudação('Marcos') // Olá tudo bem, Marcos?
 
-const variavel = saudação('Gabriel');
+const variavel = saudação('Arroz');
 console.log(variavel); // Gabriel
 //------------------------------------------------------------------------------------------------------
 function soma(x, y){
