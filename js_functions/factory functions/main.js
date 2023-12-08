@@ -32,6 +32,7 @@ function criaUser(nome, sobrenome, a, p) {
 }
 
 const p1 = criaUser('Gabriel', 'Soares', 1.7, 58);
+console.log(p1)
 
 p1.nomeCompleto = 'Ednaldo Pereira'
 console.log(p1.nome)
